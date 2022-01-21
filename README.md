@@ -17,3 +17,6 @@ To cess the project you have to clone it via https://github.com/Hillary-Kechem/o
 # live site
 click to vie live site https://kelicaleb.github.io/onlineresourcecentre/
 
+# Demo
+here is the demo link https://drive.google.com/file/d/1VPjC7xCtZRzzXz08dIIEcFVJ18NnDwAL/view?usp=sharing
+
